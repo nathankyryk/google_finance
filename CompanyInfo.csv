@@ -1,0 +1,81 @@
+ticker,company_name,industry,headquarters
+AAPL,Apple,Technology,Cupertino
+ABBV,AbbVie Inc,Healthcare,Chicago
+ABT,Abbott Laboratories,Healthcare,Abbott Park
+AIG,American International Group,Financial Services,New York
+AMD,Advanced Micro Devices,Technology,Santa Clara
+AMZN,Amazon,Retail,Seattle
+BA,Boeing,Industrial,Crystal City
+BAC,Bank of America,Financial Services,Charlotte
+BMY,Bristol-Myers Squibb Co,Healthcare,New York
+CAT,Caterpillar,Industrial,Irving
+CL,Colgate-Palmolive Co,Goods,New York
+COP,ConocoPhillips,Energy,Houston
+COST,Costco,Retail,Issaquah
+CSCO,Cisco Systems,Technology,San Jose
+CVS,CVS Health Corp,Healthcare,Woonsocket
+CVX,Chevron,Energy,Houston
+DE,Deere & Co,Industrial,Moline
+DG,Dollar General Corp,Retail,Goodlettsville
+DKS,Dick's Sporting Goods,Retail,Coraopolis
+DVN,Devon Energy Corp,Energy,Oklahoma City
+F,Ford,Automotive,Dearborn
+FDX,FedEx Corp,Industrial,Memphis
+GE,General Electric,Industrial,Boston
+GIS,General Mills Inc,Goods,Minneapolis
+GM,General Motors,Automotive,Detroit
+GOOG,Alphabet,Technology,Mountain View
+GS,Goldman Sachs,Financial Services,New York
+HAL,Halliburton Co,Energy,Houston
+HD,Home Depot,Retail,Atlanta
+HMC,Honda,Automotive,Tokyo
+HON,Honeywell International,Industrial,Charlotte
+INTC,Intel Corp,Technology,Santa Clara
+JNJ,Johnson & Johnson,Healthcare,New Brunswick
+JPM,JPMorgan Chase,Financial Services,New York City
+KHC,Kraft Heinz,Goods,Chicago
+KHC,Kraft Heinz,Goods,Pittsburgh
+KMB,Kimberly-Clark Corp,Goods,Irving
+KO,Coca-Cola,Goods,Atlanta
+KR,The Kroger Co,Retail,Cincinnati
+LCID,Lucid Group,Automotive,Newark
+LLY,Eli Lilly,Healthcare,Indianapolis
+LMT,Lockheed Martin Corp,Industrial,Bethesda
+LOW,Lowe's Companies,Retail,Mooresville
+MET,MetLife Inc,Financial Services,New York
+META,Meta Platforms,Technology,Menlo Park
+MMM,3M Company,Industrial,Maplewood
+MO,Altria Group,Goods,Richmond
+MRK,Merck & Co Inc,Healthcare,Rahway
+MS,Morgan Stanley,Financial Services,New York
+MSFT,Microsoft,Technology,Redmond
+NEE,NextEra Energy,Energy,Juno Beach
+NFLX,Netflix,Technology,Los Gatos
+NVDA,NVIDIA,Technology,Santa Clara
+OXY,Occidental Petroleum Corp,Energy,Houston
+PEP,PepsiCo,Goods,Harrison
+PFE,Pfizer,Healthcare,New York
+PG,Procter & Gamble,Goods,Cincinnati
+PII,Polar Inc,Automotive,Medina
+PLTR,Palantir Technologies,Technology,Denver
+PM,Philip Morris International,Goods,Stamford
+PSX,Phillips 66,Energy,Houston
+PYPL,PayPal Holdings Inc,Financial Services,San Jose
+RACE,Ferrari NV,Automotive,Maranello
+RIVN,Rivian Automotive,Automotive,Irvine
+SBUX,Starbucks,Retail,Seattle
+SLB,Schlumberger Ltd,Energy,Houston
+SPGI,S&P Global Inc,Financial Services,New York
+STLA,Stellantis NV,Automotive,Hoofddorp
+SYK,Stryker Corp,Healthcare,Kalamazoo
+TGT,Target Corp,Retail,Minneapolis
+TM,Toyota,Automotive,Toyota
+TSLA,Tesla,Automotive,Austin
+UNH,UnitedHealth,Healthcare,Hopkins
+UNP,Union Pacific Corp,Industrial,Omaha
+UPS,United Parcel Service,Industrial,Atlanta
+V,Visa,Financial Services,San Francisco
+VLO,Valero Energy Corp,Energy,San Antonio
+WFC,Wells Fargo & Co,Financial Services,San Francisco
+WMT,Walmart,Retail,Bentonville
+XOM,ExxonMobil,Energy,Spring
