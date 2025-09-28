@@ -1,5 +1,5 @@
 # google_finance: SQL project on Google Finance stock data
-This is a data-driven project using SQL where I will analyze the stock performance of companies and their industries, as well as the headquarters geography of eighty major companies across eight distinct industries.
+This is an end-to-end data-driven project using SQL, where I will analyze the stock performance of companies and their industries, as well as the headquarters geography of eighty major companies across eight distinct industries.
 
 ## Data Collection (2023-2025)
 I collected this data using the 'GOOGLEFINANCE' function in Google Sheets. The data is structured across two separate CSV files, which are linked by the 'ticker' and 'company_name' properties.
@@ -10,7 +10,7 @@ I collected this data using the 'GOOGLEFINANCE' function in Google Sheets. The d
 
 ## SQL Queries and Analysis Goals:
 My project will utilize SQL joins, aggregate functions, and window functions to:
-1) Determine the average percent change for each of the eight industries over the 1.5-year period and analyze the best and worst performers.
+1) Determine the average percent change for each of the eight industries over the period and analyze the best and worst performers.
 2) Identify which company has the highest stock return if bought on 01-01-2023 and sold on 06-01-2025.
 3) Analyze the correlation between industries and the companies that are headquartered within particular cities, such as how Texas houses many energy-related companies.
 4) Incorporate visualization using Tableau, and create plots in Pandas
