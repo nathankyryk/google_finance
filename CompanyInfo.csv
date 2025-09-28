@@ -1,81 +1,161 @@
 ticker,company_name,industry,headquarters
-AAPL,Apple,Technology,Cupertino
-ABBV,AbbVie Inc,Healthcare,Chicago
+MMM,3M Company,Industrial,Maplewood
+AOS,A. O. Smith,Industrial,Milwaukee
 ABT,Abbott Laboratories,Healthcare,Abbott Park
-AIG,American International Group,Financial Services,New York
+ABBV,AbbVie Inc,Healthcare,Chicago
+ADBE,Adobe,Technology,San Jose
 AMD,Advanced Micro Devices,Technology,Santa Clara
+ALL,Allstate,Financial Services,Northbrook
+GOOG,Alphabet,Technology,Mountain View
+MO,Altria Group,Goods,Richmond
 AMZN,Amazon,Retail,Seattle
-BA,Boeing,Industrial,Crystal City
+AXP,American Express,Financial Services,New York
+AIG,American International Group,Financial Services,New York
+AMGN,Amgen Inc,Healthcare,Thousand Oaks
+APA,APA Corp,Energy,Houston
+AAPL,Apple,Technology,Cupertino
+AZO,AutoZone,Retail,Memphis
+BAESY,BAE Systems,Industrial,Farnborough
 BAC,Bank of America,Financial Services,Charlotte
+BBWI,Bath & Body Works,Retail,Columbus
+BBY,Best Buy,Retail,Richfield
+BMW,BMW,Automotive,Munich
+BK,BNY Mellon,Financial Services,New York
+BA,Boeing,Industrial,Crystal City
 BMY,Bristol-Myers Squibb Co,Healthcare,New York
+BYDDY,BYD,Automotive,Shenzhen
+CPB,Campbell Soup Co,Goods,Camden
+COF,Capital One,Financial Services,McLean
+CAH,Cardinal Health,Healthcare,Dublin
 CAT,Caterpillar,Industrial,Irving
+COR,Cencora,Healthcare,Conshohocken
+CNC,Centene,Healthcare,St. Louis
+SCHW,Charles Schwab,Financial Services,Westlake
+CVX,Chevron,Energy,Houston
+CHWY,Chewy,Retail,Dania Beach
+CHD,Church & Dwight,Goods,Ewing
+CI,Cigna,Healthcare,Bloomfield
+CSCO,Cisco Systems,Technology,San Jose
+C,Citigroup,Financial Services,New York
+CLX,Clorox,Goods,Oakland
+KO,Coca-Cola,Goods,Atlanta
 CL,Colgate-Palmolive Co,Goods,New York
+CPG,ConAgra Brands,Goods,Chicago
 COP,ConocoPhillips,Energy,Houston
 COST,Costco,Retail,Issaquah
-CSCO,Cisco Systems,Technology,San Jose
 CVS,CVS Health Corp,Healthcare,Woonsocket
-CVX,Chevron,Energy,Houston
 DE,Deere & Co,Industrial,Moline
-DG,Dollar General Corp,Retail,Goodlettsville
-DKS,Dick's Sporting Goods,Retail,Coraopolis
+DELL,Dell Technologies,Technology,Round Rock
 DVN,Devon Energy Corp,Energy,Oklahoma City
-F,Ford,Automotive,Dearborn
+DKS,Dick's Sporting Goods,Retail,Coraopolis
+DG,Dollar General Corp,Retail,Goodlettsville
+DUK,Duke Energy,Energy,Charlotte
+ETN,Eaton,Industrial,Dublin
+ELV,Elevance Health,Healthcare,Indianapolis
+LLY,Eli Lilly,Healthcare,Indianapolis
+EMR,Emerson Electric,Industrial,St. Louis
+EDP,Enterprise Products Partners,Energy,Houston
+EOG,EOG Resources,Energy,Houston
+EL,Estee Lauder,Goods,New York
+XOM,ExxonMobil,Energy,Spring
 FDX,FedEx Corp,Industrial,Memphis
+RACE,Ferrari NV,Automotive,Maranello
+F,Ford,Automotive,Dearborn
+GD,General Dynamics,Industrial,Reston
 GE,General Electric,Industrial,Boston
 GIS,General Mills Inc,Goods,Minneapolis
 GM,General Motors,Automotive,Detroit
-GOOG,Alphabet,Technology,Mountain View
 GS,Goldman Sachs,Financial Services,New York
 HAL,Halliburton Co,Energy,Houston
+HCA,HCA Healthcare,Healthcare,Nashville
+HSY,Hershey,Goods,Hershey
 HD,Home Depot,Retail,Atlanta
 HMC,Honda,Automotive,Tokyo
 HON,Honeywell International,Industrial,Charlotte
+HPQ,HP Inc,Technology,Palo Alto
+HUM,Humana,Healthcare,Louisville
+IBM,IBM,Technology,Armonk
+ITW,Illinois Tool WOrks,Industrial,Glenview
 INTC,Intel Corp,Technology,Santa Clara
+SJM,J.M. Smucker,Goods,Orrville
 JNJ,Johnson & Johnson,Healthcare,New Brunswick
 JPM,JPMorgan Chase,Financial Services,New York City
+K,Kellogg,Goods,Chicago
+KMB,Kimberly-Clark Corp,Goods,Irving
+KMI,Kinder Morgan,Energy,Houston
 KHC,Kraft Heinz,Goods,Chicago
 KHC,Kraft Heinz,Goods,Pittsburgh
-KMB,Kimberly-Clark Corp,Goods,Irving
-KO,Coca-Cola,Goods,Atlanta
-KR,The Kroger Co,Retail,Cincinnati
-LCID,Lucid Group,Automotive,Newark
-LLY,Eli Lilly,Healthcare,Indianapolis
+LI,Li Auto,Automotive,Beijing
 LMT,Lockheed Martin Corp,Industrial,Bethesda
 LOW,Lowe's Companies,Retail,Mooresville
-MET,MetLife Inc,Financial Services,New York
-META,Meta Platforms,Technology,Menlo Park
-MMM,3M Company,Industrial,Maplewood
-MO,Altria Group,Goods,Richmond
+LCID,Lucid Group,Automotive,Newark
+M,Macy's,Retail,New York
+MZDAY,Mazda Motor,Automotive,Fuchū
+MCK,McKesson,Healthcare,Irving
+MBGYY,Mercedes-Benz,Automotive,Stuttgart
 MRK,Merck & Co Inc,Healthcare,Rahway
-MS,Morgan Stanley,Financial Services,New York
+META,Meta Platforms,Technology,Menlo Park
+MET,MetLife Inc,Financial Services,New York
 MSFT,Microsoft,Technology,Redmond
-NEE,NextEra Energy,Energy,Juno Beach
+MDLZ,Mondelez,Goods,Chicago
+MS,Morgan Stanley,Financial Services,New York
+MPLX,MPLX LP,Energy,Findlay
 NFLX,Netflix,Technology,Los Gatos
+NEE,NextEra Energy,Energy,Juno Beach
+NIO,Nio,Automotive,Shanghai
+NOC,Northrop Grumman,Industrial,Falls Church
 NVDA,NVIDIA,Technology,Santa Clara
+ORLY,O'Reilly Auto,Retail,Springfield
 OXY,Occidental Petroleum Corp,Energy,Houston
+ORCL,Oracle,Technology,Austin
+PLTR,Palantir Technologies,Technology,Denver
+PH,Parker-Hannifin,Industrial,Cleveland
+PYPL,PayPal Holdings Inc,Financial Services,San Jose
 PEP,PepsiCo,Goods,Harrison
 PFE,Pfizer,Healthcare,New York
-PG,Procter & Gamble,Goods,Cincinnati
-PII,Polar Inc,Automotive,Medina
-PLTR,Palantir Technologies,Technology,Denver
+PCG,PG&E,Energy,San Francisco
 PM,Philip Morris International,Goods,Stamford
 PSX,Phillips 66,Energy,Houston
-PYPL,PayPal Holdings Inc,Financial Services,San Jose
-RACE,Ferrari NV,Automotive,Maranello
+PAA,Plains All American,Energy,Houston
+PNC,PNC Financial,Financial Services,Pittsburgh
+PII,Polar Inc,Automotive,Medina
+PG,Procter & Gamble,Goods,Cincinnati
+QCOM,Qualcomm,Technology,San Diego
+RTX,Raytheon Technologies,Industrial,Arlington
 RIVN,Rivian Automotive,Automotive,Irvine
-SBUX,Starbucks,Retail,Seattle
-SLB,Schlumberger Ltd,Energy,Houston
+ROK,Rockwell Automation,Industrial,Milwaukee
+ROST,Ross Stores,Retail,Dublin
 SPGI,S&P Global Inc,Financial Services,New York
+CRM,Salesforce,Technology,San Francisco
+SLB,Schlumberger Ltd,Energy,Houston
+SHW,Sherwin-Williams,Retail,Cleveland
+SO,Southern Co,Energy,Atlanta
+SBUX,Starbucks,Retail,Seattle
+STT,State Street,Financial Services,Boston
 STLA,Stellantis NV,Automotive,Hoofddorp
 SYK,Stryker Corp,Healthcare,Kalamazoo
+SZKMY,Suzuki Motor,Automotive,Hamamatsu
 TGT,Target Corp,Retail,Minneapolis
-TM,Toyota,Automotive,Toyota
+TTM,Tata Motors,Automotive,Mumbai
 TSLA,Tesla,Automotive,Austin
-UNH,UnitedHealth,Healthcare,Hopkins
+TXN,Texas Instruments,Technology,Dallas
+KR,The Kroger Co,Retail,Cincinnati
+TJX,TJX Companies,Retail,Framingham
+TTE,TotalEnergies,Energy,Courbevoie
+TM,Toyota,Automotive,Toyota
+TFC,Truist Financial,Financial Services,Charlotte
+TSN,Tyson Foods,Goods,Springdale
+USB,U.S. Bancorp,Financial Services,Minneapolis
+ULTA,Ulta Beauty,Retail,Bolingbrook
+UL,Unilever,Goods,London
 UNP,Union Pacific Corp,Industrial,Omaha
 UPS,United Parcel Service,Industrial,Atlanta
-V,Visa,Financial Services,San Francisco
+UNH,UnitedHealth,Healthcare,Hopkins
 VLO,Valero Energy Corp,Energy,San Antonio
-WFC,Wells Fargo & Co,Financial Services,San Francisco
+V,Visa,Financial Services,San Francisco
+VWAGY,Volkswagen,Automotive,Wolfsburg
 WMT,Walmart,Retail,Bentonville
-XOM,ExxonMobil,Energy,Spring
+WFC,Wells Fargo & Co,Financial Services,San Francisco
+XPEV,XPeng,Automotive,Guangzhou
+ZTS,Zoetis,Healthcare,Parsippany
+ZM,Zoom Video,Technology,San Jose
