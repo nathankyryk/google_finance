@@ -1,4 +1,4 @@
-# google_finance: SQL project on Google Finance stock data
+# SQL project on Google Finance stock data
 This is an end-to-end data-driven project using SQL, where I will analyze the stock performance of companies and their industries, as well as the headquarters geography of eighty major companies across eight distinct industries.
 
 ## Data Collection (2023-2025)
