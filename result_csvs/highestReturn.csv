@@ -1,0 +1,161 @@
+company_name,percent_increase,industry
+Palantir Technologies,2033,Technology
+NVIDIA,1003,Technology
+Meta Platforms,492,Technology
+General Electric,386,Industrial
+Netflix,354,Technology
+Dell Technologies,200,Technology
+Tesla,194,Automotive
+Oracle,161,Technology
+Amazon,156,Retail
+BAE Systems,150,Industrial
+Parker-Hannifin,139,Industrial
+Capital One,129,Financial Services
+Ferrari NV,128,Automotive
+Eaton,126,Industrial
+Advanced Micro Devices,122,Technology
+Cardinal Health,119,Healthcare
+Costco,118,Retail
+American Express,117,Financial Services
+JPMorgan Chase,115,Financial Services
+Eli Lilly,114,Healthcare
+IBM,108,Technology
+Microsoft,108,Technology
+Walmart,104,Retail
+Goldman Sachs,104,Financial Services
+Salesforce,102,Technology
+Alphabet,98,Technology
+BNY Mellon,97,Financial Services
+McKesson,96,Healthcare
+Wells Fargo & Co,92,Financial Services
+Citigroup,86,Financial Services
+BYD,84,Automotive
+Cencora,83,Healthcare
+Philip Morris International,80,Goods
+XPeng,76,Automotive
+Visa,71,Financial Services
+Morgan Stanley,64,Financial Services
+Apple,64,Technology
+Dick's Sporting Goods,64,Retail
+Kinder Morgan,63,Energy
+Caterpillar,63,Industrial
+The Kroger Co,61,Retail
+O'Reilly Auto,61,Retail
+Stryker Corp,61,Healthcare
+Plains All American,59,Energy
+MPLX LP,58,Energy
+HCA Healthcare,58,Healthcare
+S&P Global Inc,57,Financial Services
+TJX Companies,56,Retail
+AutoZone,53,Retail
+3M Company,49,Industrial
+Qualcomm,49,Technology
+Allstate,47,Financial Services
+General Motors,46,Automotive
+Raytheon Technologies,45,Industrial
+Cisco Systems,45,Technology
+Sherwin-Williams,43,Retail
+Bank of America,41,Financial Services
+Emerson Electric,39,Industrial
+American International Group,36,Financial Services
+State Street,36,Financial Services
+Li Auto,29,Automotive
+Altria Group,29,Goods
+FedEx Corp,28,Industrial
+Southern Co,28,Energy
+Texas Instruments,27,Technology
+ConAgra Brands,27,Goods
+Rockwell Automation,27,Industrial
+Toyota,25,Automotive
+Honda,24,Automotive
+Abbott Laboratories,24,Healthcare
+Unilever,21,Goods
+Deere & Co,20,Industrial
+Chewy,20,Retail
+Kellogg,19,Goods
+Phillips 66,18,Energy
+Zoom Video,17,Technology
+Church & Dwight,17,Goods
+General Dynamics,17,Industrial
+PNC Financial,17,Financial Services
+Home Depot,16,Retail
+Adobe,15,Technology
+Colgate-Palmolive Co,15,Goods
+AbbVie Inc,14,Healthcare
+Duke Energy,14,Energy
+Valero Energy Corp,12,Energy
+Illinois Tool WOrks,12,Industrial
+Coca-Cola,12,Goods
+MetLife Inc,11,Financial Services
+A. O. Smith,11,Industrial
+Lowe's Companies,11,Retail
+Union Pacific Corp,11,Industrial
+Charles Schwab,11,Financial Services
+Ross Stores,10,Retail
+Honeywell International,9,Industrial
+Boeing,7,Industrial
+Amgen Inc,7,Healthcare
+Zoetis,6,Healthcare
+Procter & Gamble,5,Goods
+Cigna,3,Healthcare
+Mondelez,2,Goods
+ExxonMobil,1,Energy
+U.S. Bancorp,1,Financial Services
+PayPal Holdings Inc,0,Financial Services
+TotalEnergies,0,Energy
+Truist Financial,-1,Financial Services
+Ulta Beauty,-1,Retail
+Lockheed Martin Corp,-3,Industrial
+EOG Resources,-4,Energy
+Kimberly-Clark Corp,-6,Goods
+Ford,-7,Automotive
+Northrop Grumman,-7,Industrial
+Starbucks,-9,Retail
+HP Inc,-9,Technology
+PG&E,-11,Energy
+Tyson Foods,-12,Goods
+BMW,-12,Automotive
+Mercedes-Benz,-14,Automotive
+Johnson & Johnson,-14,Healthcare
+Intel Corp,-16,Technology
+Clorox,-16,Goods
+NextEra Energy,-17,Energy
+Best Buy,-17,Retail
+Chevron,-18,Energy
+Rivian Automotive,-21,Automotive
+ConocoPhillips,-21,Energy
+Mazda Motor,-21,Automotive
+Enterprise Products Partners,-22,Energy
+Elevance Health,-23,Healthcare
+PepsiCo,-26,Goods
+CVS Health Corp,-26,Healthcare
+Hershey,-27,Goods
+Merck & Co Inc,-29,Healthcare
+Bath & Body Works,-31,Retail
+Stellantis NV,-31,Automotive
+Occidental Petroleum Corp,-31,Energy
+Centene,-32,Healthcare
+Volkswagen,-34,Automotive
+Schlumberger Ltd,-34,Energy
+Target Corp,-35,Retail
+Bristol-Myers Squibb Co,-36,Healthcare
+Kraft Heinz,-37,Goods
+Kraft Heinz,-37,Goods
+General Mills Inc,-38,Goods
+J.M. Smucker,-38,Goods
+UnitedHealth,-40,Healthcare
+United Parcel Service,-42,Industrial
+Macy's,-42,Retail
+Campbell Soup Co,-45,Goods
+Devon Energy Corp,-45,Energy
+Halliburton Co,-46,Energy
+Tata Motors,-51,Automotive
+Humana,-51,Healthcare
+Pfizer,-53,Healthcare
+Dollar General Corp,-54,Retail
+APA Corp,-58,Energy
+Polar Inc,-60,Automotive
+Suzuki Motor,-63,Automotive
+Nio,-64,Automotive
+Lucid Group,-66,Automotive
+Estee Lauder,-68,Goods
