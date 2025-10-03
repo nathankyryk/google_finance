@@ -1,5 +1,5 @@
 -- Average % Increase by Industry
-SELECT ci.industry, (AVG(sd.percent_change))::NUMERIC(10, 2) AS avg_percent_increase
+SELECT ci.industry, (AVG(sd.percent_change))::NUMERIC(10,4) AS avg_percent_increase
 FROM stockdata SD
 JOIN companyinfo CI ON sd.ticker = ci.ticker
 GROUP BY ci.industry
@@ -26,9 +26,9 @@ ORDER BY company_count DESC;
 
 -- Company performance vs its industry's average
 SELECT SD.company_name, CI.industry, 
-	  (sd.percent_change)::NUMERIC(10, 2) AS company_return,
-	  (AVG(SD.percent_change) OVER (PARTITION BY ci.industry))::NUMERIC(10,2) AS industry_avg,
-	  ((sd.percent_change) - (AVG(sd.percent_change) OVER (PARTITION BY ci.industry)))::NUMERIC(10, 2) AS performance_vs_industry_avg
+	  (sd.percent_change)::NUMERIC(10, 4) AS company_return,
+	  (AVG(SD.percent_change) OVER (PARTITION BY ci.industry))::NUMERIC(10,4) AS industry_avg,
+	  ((sd.percent_change) - (AVG(sd.percent_change) OVER (PARTITION BY ci.industry)))::NUMERIC(10, 4) AS performance_vs_industry_avg
 FROM stockdata SD
 JOIN companyinfo CI ON sd.ticker = ci.ticker
 ORDER BY ci.industry, performance_vs_industry_avg DESC;
