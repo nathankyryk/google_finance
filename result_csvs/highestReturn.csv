@@ -1,161 +1,161 @@
-company_name,percent_increase,industry
-Palantir Technologies,2033,Technology
-NVIDIA,1003,Technology
-Meta Platforms,492,Technology
-General Electric,386,Industrial
-Netflix,354,Technology
-Dell Technologies,200,Technology
-Tesla,194,Automotive
-Oracle,161,Technology
-Amazon,156,Retail
-BAE Systems,150,Industrial
-Parker-Hannifin,139,Industrial
-Capital One,129,Financial Services
-Ferrari NV,128,Automotive
-Eaton,126,Industrial
-Advanced Micro Devices,122,Technology
-Cardinal Health,119,Healthcare
-Costco,118,Retail
-American Express,117,Financial Services
-JPMorgan Chase,115,Financial Services
-Eli Lilly,114,Healthcare
-IBM,108,Technology
-Microsoft,108,Technology
-Walmart,104,Retail
-Goldman Sachs,104,Financial Services
-Salesforce,102,Technology
-Alphabet,98,Technology
-BNY Mellon,97,Financial Services
-McKesson,96,Healthcare
-Wells Fargo & Co,92,Financial Services
-Citigroup,86,Financial Services
-BYD,84,Automotive
-Cencora,83,Healthcare
-Philip Morris International,80,Goods
-XPeng,76,Automotive
-Visa,71,Financial Services
-Morgan Stanley,64,Financial Services
-Apple,64,Technology
-Dick's Sporting Goods,64,Retail
-Kinder Morgan,63,Energy
-Caterpillar,63,Industrial
-The Kroger Co,61,Retail
-O'Reilly Auto,61,Retail
-Stryker Corp,61,Healthcare
-Plains All American,59,Energy
-MPLX LP,58,Energy
-HCA Healthcare,58,Healthcare
-S&P Global Inc,57,Financial Services
-TJX Companies,56,Retail
-AutoZone,53,Retail
-3M Company,49,Industrial
-Qualcomm,49,Technology
-Allstate,47,Financial Services
-General Motors,46,Automotive
-Raytheon Technologies,45,Industrial
-Cisco Systems,45,Technology
-Sherwin-Williams,43,Retail
-Bank of America,41,Financial Services
-Emerson Electric,39,Industrial
-American International Group,36,Financial Services
-State Street,36,Financial Services
-Li Auto,29,Automotive
-Altria Group,29,Goods
-FedEx Corp,28,Industrial
-Southern Co,28,Energy
-Texas Instruments,27,Technology
-ConAgra Brands,27,Goods
-Rockwell Automation,27,Industrial
-Toyota,25,Automotive
-Honda,24,Automotive
-Abbott Laboratories,24,Healthcare
-Unilever,21,Goods
-Deere & Co,20,Industrial
-Chewy,20,Retail
-Kellogg,19,Goods
-Phillips 66,18,Energy
-Zoom Video,17,Technology
-Church & Dwight,17,Goods
-General Dynamics,17,Industrial
-PNC Financial,17,Financial Services
-Home Depot,16,Retail
-Adobe,15,Technology
-Colgate-Palmolive Co,15,Goods
-AbbVie Inc,14,Healthcare
-Duke Energy,14,Energy
-Valero Energy Corp,12,Energy
-Illinois Tool WOrks,12,Industrial
-Coca-Cola,12,Goods
-MetLife Inc,11,Financial Services
-A. O. Smith,11,Industrial
-Lowe's Companies,11,Retail
-Union Pacific Corp,11,Industrial
-Charles Schwab,11,Financial Services
-Ross Stores,10,Retail
-Honeywell International,9,Industrial
-Boeing,7,Industrial
-Amgen Inc,7,Healthcare
-Zoetis,6,Healthcare
-Procter & Gamble,5,Goods
-Cigna,3,Healthcare
-Mondelez,2,Goods
-ExxonMobil,1,Energy
-U.S. Bancorp,1,Financial Services
-PayPal Holdings Inc,0,Financial Services
-TotalEnergies,0,Energy
-Truist Financial,-1,Financial Services
-Ulta Beauty,-1,Retail
-Lockheed Martin Corp,-3,Industrial
-EOG Resources,-4,Energy
-Kimberly-Clark Corp,-6,Goods
-Ford,-7,Automotive
-Northrop Grumman,-7,Industrial
-Starbucks,-9,Retail
-HP Inc,-9,Technology
-PG&E,-11,Energy
-Tyson Foods,-12,Goods
-BMW,-12,Automotive
-Mercedes-Benz,-14,Automotive
-Johnson & Johnson,-14,Healthcare
-Intel Corp,-16,Technology
-Clorox,-16,Goods
-NextEra Energy,-17,Energy
-Best Buy,-17,Retail
-Chevron,-18,Energy
-Rivian Automotive,-21,Automotive
-ConocoPhillips,-21,Energy
-Mazda Motor,-21,Automotive
-Enterprise Products Partners,-22,Energy
-Elevance Health,-23,Healthcare
-PepsiCo,-26,Goods
-CVS Health Corp,-26,Healthcare
-Hershey,-27,Goods
-Merck & Co Inc,-29,Healthcare
-Bath & Body Works,-31,Retail
-Stellantis NV,-31,Automotive
-Occidental Petroleum Corp,-31,Energy
-Centene,-32,Healthcare
-Volkswagen,-34,Automotive
-Schlumberger Ltd,-34,Energy
-Target Corp,-35,Retail
-Bristol-Myers Squibb Co,-36,Healthcare
-Kraft Heinz,-37,Goods
-Kraft Heinz,-37,Goods
-General Mills Inc,-38,Goods
-J.M. Smucker,-38,Goods
-UnitedHealth,-40,Healthcare
-United Parcel Service,-42,Industrial
-Macy's,-42,Retail
-Campbell Soup Co,-45,Goods
-Devon Energy Corp,-45,Energy
-Halliburton Co,-46,Energy
-Tata Motors,-51,Automotive
-Humana,-51,Healthcare
-Pfizer,-53,Healthcare
-Dollar General Corp,-54,Retail
-APA Corp,-58,Energy
-Polar Inc,-60,Automotive
-Suzuki Motor,-63,Automotive
-Nio,-64,Automotive
-Lucid Group,-66,Automotive
-Estee Lauder,-68,Goods
+"company_name","percent_change","industry"
+"Palantir Technologies","20.33","Technology"
+"NVIDIA","10.03","Technology"
+"Meta Platforms","4.92","Technology"
+"General Electric","3.86","Industrial"
+"Netflix","3.54","Technology"
+"Dell Technologies","2","Technology"
+"Tesla","1.94","Automotive"
+"Oracle","1.61","Technology"
+"Amazon","1.56","Retail"
+"BAE Systems","1.5","Industrial"
+"Parker-Hannifin","1.39","Industrial"
+"Capital One","1.29","Financial Services"
+"Ferrari NV","1.28","Automotive"
+"Eaton","1.26","Industrial"
+"Advanced Micro Devices","1.22","Technology"
+"Cardinal Health","1.19","Healthcare"
+"Costco","1.18","Retail"
+"American Express","1.17","Financial Services"
+"JPMorgan Chase","1.15","Financial Services"
+"Eli Lilly","1.14","Healthcare"
+"IBM","1.08","Technology"
+"Microsoft","1.08","Technology"
+"Walmart","1.04","Retail"
+"Goldman Sachs","1.04","Financial Services"
+"Salesforce","1.02","Technology"
+"Alphabet","0.98","Technology"
+"BNY Mellon","0.97","Financial Services"
+"McKesson","0.96","Healthcare"
+"Wells Fargo & Co","0.92","Financial Services"
+"Citigroup","0.86","Financial Services"
+"BYD","0.84","Automotive"
+"Cencora","0.83","Healthcare"
+"Philip Morris International","0.8","Goods"
+"XPeng","0.76","Automotive"
+"Visa","0.71","Financial Services"
+"Morgan Stanley","0.64","Financial Services"
+"Apple","0.64","Technology"
+"Dick's Sporting Goods","0.64","Retail"
+"Kinder Morgan","0.63","Energy"
+"Caterpillar","0.63","Industrial"
+"The Kroger Co","0.61","Retail"
+"O'Reilly Auto","0.61","Retail"
+"Stryker Corp","0.61","Healthcare"
+"Plains All American","0.59","Energy"
+"MPLX LP","0.58","Energy"
+"HCA Healthcare","0.58","Healthcare"
+"S&P Global Inc","0.57","Financial Services"
+"TJX Companies","0.56","Retail"
+"AutoZone","0.53","Retail"
+"3M Company","0.49","Industrial"
+"Qualcomm","0.49","Technology"
+"Allstate","0.47","Financial Services"
+"General Motors","0.46","Automotive"
+"Raytheon Technologies","0.45","Industrial"
+"Cisco Systems","0.45","Technology"
+"Sherwin-Williams","0.43","Retail"
+"Bank of America","0.41","Financial Services"
+"Emerson Electric","0.39","Industrial"
+"American International Group","0.36","Financial Services"
+"State Street","0.36","Financial Services"
+"Li Auto","0.29","Automotive"
+"Altria Group","0.29","Goods"
+"FedEx Corp","0.28","Industrial"
+"Southern Co","0.28","Energy"
+"Texas Instruments","0.27","Technology"
+"ConAgra Brands","0.27","Goods"
+"Rockwell Automation","0.27","Industrial"
+"Toyota","0.25","Automotive"
+"Honda","0.24","Automotive"
+"Abbott Laboratories","0.24","Healthcare"
+"Unilever","0.21","Goods"
+"Deere & Co","0.2","Industrial"
+"Chewy","0.2","Retail"
+"Kellogg","0.19","Goods"
+"Phillips 66","0.18","Energy"
+"Zoom Video","0.17","Technology"
+"Church & Dwight","0.17","Goods"
+"General Dynamics","0.17","Industrial"
+"PNC Financial","0.17","Financial Services"
+"Home Depot","0.16","Retail"
+"Adobe","0.15","Technology"
+"Colgate-Palmolive Co","0.15","Goods"
+"AbbVie Inc","0.14","Healthcare"
+"Duke Energy","0.14","Energy"
+"Valero Energy Corp","0.12","Energy"
+"Illinois Tool WOrks","0.12","Industrial"
+"Coca-Cola","0.12","Goods"
+"MetLife Inc","0.11","Financial Services"
+"A. O. Smith","0.11","Industrial"
+"Lowe's Companies","0.11","Retail"
+"Union Pacific Corp","0.11","Industrial"
+"Charles Schwab","0.11","Financial Services"
+"Ross Stores","0.1","Retail"
+"Honeywell International","0.09","Industrial"
+"Boeing","0.07","Industrial"
+"Amgen Inc","0.07","Healthcare"
+"Zoetis","0.06","Healthcare"
+"Procter & Gamble","0.05","Goods"
+"Cigna","0.03","Healthcare"
+"Mondelez","0.02","Goods"
+"ExxonMobil","0.01","Energy"
+"U.S. Bancorp","0.01","Financial Services"
+"PayPal Holdings Inc","0","Financial Services"
+"TotalEnergies","0","Energy"
+"Truist Financial","-0.01","Financial Services"
+"Ulta Beauty","-0.01","Retail"
+"Lockheed Martin Corp","-0.03","Industrial"
+"EOG Resources","-0.04","Energy"
+"Kimberly-Clark Corp","-0.06","Goods"
+"Ford","-0.07","Automotive"
+"Northrop Grumman","-0.07","Industrial"
+"Starbucks","-0.09","Retail"
+"HP Inc","-0.09","Technology"
+"PG&E","-0.11","Energy"
+"Tyson Foods","-0.12","Goods"
+"BMW","-0.12","Automotive"
+"Mercedes-Benz","-0.14","Automotive"
+"Johnson & Johnson","-0.14","Healthcare"
+"Intel Corp","-0.16","Technology"
+"Clorox","-0.16","Goods"
+"NextEra Energy","-0.17","Energy"
+"Best Buy","-0.17","Retail"
+"Chevron","-0.18","Energy"
+"Rivian Automotive","-0.21","Automotive"
+"ConocoPhillips","-0.21","Energy"
+"Mazda Motor","-0.21","Automotive"
+"Enterprise Products Partners","-0.22","Energy"
+"Elevance Health","-0.23","Healthcare"
+"PepsiCo","-0.26","Goods"
+"CVS Health Corp","-0.26","Healthcare"
+"Hershey","-0.27","Goods"
+"Merck & Co Inc","-0.29","Healthcare"
+"Bath & Body Works","-0.31","Retail"
+"Stellantis NV","-0.31","Automotive"
+"Occidental Petroleum Corp","-0.31","Energy"
+"Centene","-0.32","Healthcare"
+"Volkswagen","-0.34","Automotive"
+"Schlumberger Ltd","-0.34","Energy"
+"Target Corp","-0.35","Retail"
+"Bristol-Myers Squibb Co","-0.36","Healthcare"
+"Kraft Heinz","-0.37","Goods"
+"Kraft Heinz","-0.37","Goods"
+"General Mills Inc","-0.38","Goods"
+"J.M. Smucker","-0.38","Goods"
+"UnitedHealth","-0.4","Healthcare"
+"United Parcel Service","-0.42","Industrial"
+"Macy's","-0.42","Retail"
+"Campbell Soup Co","-0.45","Goods"
+"Devon Energy Corp","-0.45","Energy"
+"Halliburton Co","-0.46","Energy"
+"Tata Motors","-0.51","Automotive"
+"Humana","-0.51","Healthcare"
+"Pfizer","-0.53","Healthcare"
+"Dollar General Corp","-0.54","Retail"
+"APA Corp","-0.58","Energy"
+"Polar Inc","-0.6","Automotive"
+"Suzuki Motor","-0.63","Automotive"
+"Nio","-0.64","Automotive"
+"Lucid Group","-0.66","Automotive"
+"Estee Lauder","-0.68","Goods"
