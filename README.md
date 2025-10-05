@@ -1,5 +1,5 @@
 # SQL project on Google Finance stock data
-This is an end-to-end data-driven project using Google Sheets, SQL, and Power BI, where I analyzed the stock performance of companies and their industries, as well as the headquarters of eighty major companies across eight distinct industries.
+This is an end-to-end data-driven project utilizing Google Sheets, SQL, and Power BI, where I analyzed the stock performance of companies and their industries, as well as the headquarters of 160 major companies across eight distinct industries.
 
 ## Data Collection (2023-2025)
 I collected this data using the 'GOOGLEFINANCE' function in Google Sheets. The data is structured across two separate CSV files, which are linked by the 'ticker' and 'company_name' properties.
