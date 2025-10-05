@@ -3,8 +3,8 @@ This is an end-to-end data-driven project using Google Sheets, SQL, and Power BI
 
 ## Data Collection (2023-2025)
 I collected this data using the 'GOOGLEFINANCE' function in Google Sheets. The data is structured across two separate CSV files, which are linked by the 'ticker' and 'company_name' properties.
-'CompanyInfo.csv' - Contains company information for one hundred and sixty companies across eight distinct industries, with twenty companies per industry. The city where each company is headquartered is also noted.
-'StockData.csv' - Contains the collected start price, end price, price change, and percent change for each company's stocks, as well as their tickers and company names. 
+* 'CompanyInfo.csv' - Contains company information for one hundred and sixty companies across eight distinct industries, with twenty companies per industry. The city where each company is headquartered is also noted.
+* 'StockData.csv' - Contains the collected start price, end price, price change, and percent change for each company's stocks, as well as their tickers and company names. 
 
 ---
 
