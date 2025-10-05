@@ -6,8 +6,6 @@ I collected this data using the 'GOOGLEFINANCE' function in Google Sheets. The d
 * 'CompanyInfo.csv' - Contains company information for one hundred and sixty companies across eight distinct industries, with twenty companies per industry. The city where each company is headquartered is also noted.
 * 'StockData.csv' - Contains the collected start price, end price, price change, and percent change for each company's stocks, as well as their tickers and company names. 
 
----
-
 ## SQL Queries and Analysis Goals:
 My project will utilize SQL joins, aggregate functions, and window functions to:
 1) Determine the average percent change for each of the eight industries over the period and analyze the best and worst performers.
